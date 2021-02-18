@@ -1,6 +1,3 @@
-<!--
-**ShadiestGoat/ShadiestGoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Shady Goat<br></h1>
 
 <h3 align="center">Languages<br></h3>
