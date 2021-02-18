@@ -6,7 +6,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-mongodb-161616?style=for-the-badge&logo=mongodb">
   <img alt="Python" src="https://img.shields.io/badge/-python-161616?style=for-the-badge&logo=python">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=typescript">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-262626?style=for-the-badge&logo=javascript">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-161616?style=for-the-badge&logo=javascript">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-161616?style=for-the-badge&logo=postgresql">
 </p>
 
