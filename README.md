@@ -12,5 +12,5 @@
 
 
 <p align="center">
-      <img width="50%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shadiestgoat&show_icons=true&hide_border=true&line_height=30&title_color=ededed&text_color=ededed&bg_color=262626&icon_color=d50c2d&show_owner=true">
+      <img width="50%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shadiestgoat&show_icons=true&hide_border=true&line_height=30&title_color=ededed&text_color=ededed&bg_color=161616&icon_color=d50c2d&show_owner=true">
 </p>
