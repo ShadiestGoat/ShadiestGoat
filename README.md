@@ -21,7 +21,7 @@
   <br>
 	<img alt="Ubuntu VPS" src="https://img.shields.io/badge/-ubuntu server-0d1117?style=for-the-badge&logo=ubuntu">
   <img alt="Linux Bash" src="https://img.shields.io/badge/-linux bash-0d1117?style=for-the-badge&logo=linux">
-  <img alt="My Main OS - Arch Linux" src="https://img.shields.io/badge/-Arch Linux-0d1117?style=for-the-badge&logo=arch linux">
+  <img alt="My Main OS - Arch Linux" src="https://img.shields.io/badge/-Arch Linux-0d1117?style=for-the-badge&logo=arch+linux">
 	<br>
   <img alt="MongoDB Browser" src="https://img.shields.io/badge/-Mongo Compass-0d1117?style=for-the-badge&logo=MongoDB">
   <img alt="MongoDB Browser" src="https://img.shields.io/badge/-Robo3T-0d1117?style=for-the-badge&logo=MongoDB">
