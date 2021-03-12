@@ -16,7 +16,7 @@
   
 <p align="center">
   <img alt="My Other IDE" src="https://img.shields.io/badge/-neovim-0d1117?style=for-the-badge&logo=neovim">
-  <img alt="VSCode - *insiders*" src="https://img.shields.io/badge/-VSCode-0d1117?style=for-the-badge&logo=Visual Studio Code">
+  <img alt="VSCode - *insiders*" src="https://img.shields.io/badge/-VSCode-0d1117?style=for-the-badge&logo=Visual+studio+code">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github">
   <br>
 	<img alt="Ubuntu VPS" src="https://img.shields.io/badge/-ubuntu server-0d1117?style=for-the-badge&logo=ubuntu">
