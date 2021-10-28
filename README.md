@@ -1,5 +1,20 @@
 <h1 align="center">Shady Goat<br></h1>
 
+<h2 align="center">About me<br></h2>
+
+<p align="center">
+Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend development, though I do enjoy a good front end project. I started out coding right when the first lockdown happened, which as of writing this is about 2.5 years ago. I started out a Python discord.py developer, mainly cause I was too cheap to hire an actual developer for my projects, haha. I then graduated into JS, but quickly ran away and right into Typescript. <br>
+I have been using NodeJS + Typescript for about a year and a half now, making many exciting projects. Over that time I have also learnt to use React (PReact mainly), express, fastify, and more. <br>
+I'm about ready to learn a new language, which I have decided to be GoLang. 
+</p>
+
+
+<h2 align="center">What am I doing now?<br></h2>
+
+<p align="center">
+At the moment I'm learning GoLang, working freelance, and working on my Dating/Bullying site :)
+</p>
+
 <h2 align="center">Languages<br></h2>
 
 <p align="center">
