@@ -1,18 +1,25 @@
 <h1 align="center">Shady Goat<br></h1>
 
-<h3 align="center">Languages<br></h3>
+<h2 align="center">Languages<br></h2>
 
 <p align="center">
  <img alt="Python" src="https://img.shields.io/badge/-python-0d1117?style=for-the-badge&logo=python">
- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript">
  <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-0d1117?style=for-the-badge&logo=javascript">
-<img alt="TypeScript" src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React">
+ <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript">
+<img alt="React" src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React">
+<img alt="HTML 5" src="https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5">
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3">
   <br>
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=mariadb">
   <img alt="MongoDB" src="https://img.shields.io/badge/-mongodb-0d1117?style=for-the-badge&logo=mongodb">
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=postgresql">
+<img alt="SQL" src="https://img.shields.io/badge/-SQLite-0d1117?style=for-the-badge&logo=sqlite">
 </p>
   <br>
-<h3 align="center">Tools I work with<br></h3>
+  
+<h2 align="center">Contact Me<br></h2>
+<h3 align="center">Shady Goat#2893 on Discord<br><br></h3>
+  
+<h2 align="center">Tools I work with<br></h2>
   
 <p align="center">
   <img alt="My Other IDE" src="https://img.shields.io/badge/-neovim-0d1117?style=for-the-badge&logo=neovim">
@@ -31,10 +38,9 @@
 	<br>
   <img alt="Node.JS" src="https://img.shields.io/badge/-NodeJS-0d1117?style=for-the-badge&logo=Node.js">
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-0d1117?style=for-the-badge&logo=NPM">
-	
 </p>
   <br>
-<h3 align="center">GitHub Stats<br></h3>
+<h2 align="center">GitHub Stats<br></h2>
 
 <p align="center">
       <img width="65%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shadiestgoat&show_icons=true&hide_border=true&line_height=30&title_color=ededed&text_color=ededed&bg_color=0d1117&icon_color=d50c2d&show_owner=true">
