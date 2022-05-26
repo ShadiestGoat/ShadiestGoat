@@ -29,6 +29,15 @@ Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend dev
 <table>
 <tr>
 <td>
+<img width="100%" height="1">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/dark/python.svg">
+  <source media="(prefers-color-scheme: light)" srcset="TODO:">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="">
+</picture>
+</td>
+<td>
+<img width="100%" height="1">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/dark/python.svg">
   <source media="(prefers-color-scheme: light)" srcset="TODO:">
