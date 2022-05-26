@@ -1,21 +1,53 @@
+<style>
+table {
+    width:100%;
+}
+</style>
 <h1 align="center">Shady Goat<br></h1>
 
 <h2 align="center">About me<br></h2>
 
 <p align="center">
-Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend development, though I do enjoy a good front end project. I started out coding right when the first lockdown happened, which as of writing this is about 2.5 years ago. I started out a Python discord.py developer, mainly cause I was too cheap to hire an actual developer for my projects, haha. I then graduated into JS, but quickly ran away and right into Typescript. <br>
-I have been using NodeJS + Typescript for about a year and a half now, making many exciting projects. Over that time I have also learnt to use React (PReact mainly), express, fastify, and more. <br>
-I'm about ready to learn a new language, which I have decided to be GoLang. 
+Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend development, though I do enjoy a good front end project. I started out coding right when the first lockdown happened (early 2020). I prefer strongly typed languages like go<br>
 </p>
 
+<details>
+<summary><h1>Frontend Languages & Frameworks</h1></summary>
+</details>
 
-<h2 align="center">What am I doing now?<br></h2>
+<details>
+<summary><h1>Backend Languages & Frameworks</h1></summary>
+</details>
 
-<p align="center">
-At the moment I'm learning GoLang, working freelance, and working on my Dating/Bullying site :)
-</p>
+<details>
+<summary><h1>Github Stats</h1></summary>
+</details>
 
-<h2 align="center">Languages<br></h2>
+<h1 align="center">Contact Me<br></h1>
+
+<table>
+<tr>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/dark/python.svg">
+  <source media="(prefers-color-scheme: light)" srcset="TODO:">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="">
+</picture>
+</td>
+</tr>
+<tr>
+<td>
+Test
+</td>
+</tr>
+</table>
+
+<h1>Credits</h1>
+
+Icons for this README were taken from the awesome project [simple-icons](https://simpleicons.org)! They were modefied to some extent by me.
+
+
+<h2 align="center">Scripting Languages<br></h2>
 
 <p align="center">
  <img alt="Python" src="https://img.shields.io/badge/-python-0d1117?style=for-the-badge&logo=python">
@@ -60,3 +92,5 @@ At the moment I'm learning GoLang, working freelance, and working on my Dating/B
 <p align="center">
       <img width="65%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shadiestgoat&show_icons=true&hide_border=true&line_height=30&title_color=ededed&text_color=ededed&bg_color=0d1117&icon_color=d50c2d&show_owner=true">
 </p>
+
+</details>
