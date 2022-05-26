@@ -3,6 +3,7 @@ table {
     width:100%;
 }
 </style>
+
 <h1 align="center">Shady Goat<br></h1>
 
 <h2 align="center">About me<br></h2>
