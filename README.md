@@ -1,15 +1,9 @@
-<style>
-table {
-    width:100%;
-}
-</style>
+<h1 align="center">Shady Goat</h1>
 
-<h1 align="center">Shady Goat<br></h1>
-
-<h2 align="center">About me<br></h2>
+<h2 align="center">About me</h2>
 
 <p align="center">
-Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend development, though I do enjoy a good front end project. I started out coding right when the first lockdown happened (early 2020). I prefer strongly typed languages like go<br>
+Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend development, though I do enjoy a good front end project. I started out coding right when the first lockdown happened (early 2020). I prefer strongly typed languages like go
 </p>
 
 <details>
@@ -31,9 +25,9 @@ Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend dev
 <td>
 <img width="100%" height="1">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/dark/python.svg">
-  <source media="(prefers-color-scheme: light)" srcset="TODO:">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/python.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/python.svg">
+  <img alt="" src="">
 </picture>
 </td>
 <td>
@@ -41,7 +35,7 @@ Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend dev
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/dark/python.svg">
   <source media="(prefers-color-scheme: light)" srcset="TODO:">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="">
+  <img alt="" src="">
 </picture>
 </td>
 </tr>
