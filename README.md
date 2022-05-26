@@ -23,15 +23,17 @@ Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend dev
 <table>
 <tr>
 <td>
-<img width="33%" height="1">
+<img width="441" height="1">
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/python.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/python.svg">
-  <img alt="" src="">
+  <img width="30%" alt="" src="">
 </picture>
+</p>
 </td>
 <td>
-<img width="33%" height="1">
+<img width="441" height="1">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/dark/python.svg">
   <source media="(prefers-color-scheme: light)" srcset="TODO:">
