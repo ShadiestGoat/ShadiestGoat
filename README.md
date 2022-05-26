@@ -12,16 +12,19 @@ Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend dev
 
 <details>
 <summary><h1>Backend Languages & Frameworks</h1></summary>
-</details>
-
-<details>
-<summary><h1>Github Stats</h1></summary>
-</details>
-
-<h1 align="center">Contact Me<br></h1>
 
 <table>
 <tr>
+<td>
+<img width="441" height="1">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/go.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/go.svg">
+  <img width="30%" alt="" src="">
+</picture>
+</p>
+</td>
 <td>
 <img width="441" height="1">
 <p align="center">
@@ -32,21 +35,25 @@ Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend dev
 </picture>
 </p>
 </td>
-<td>
-<img width="441" height="1">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/dark/python.svg">
-  <source media="(prefers-color-scheme: light)" srcset="TODO:">
-  <img alt="" src="">
-</picture>
-</td>
 </tr>
 <tr>
-<td>
-Test
+<td align="center">
+Go/Golang
+</td>
+<td align="center">
+Python
 </td>
 </tr>
 </table>
+
+</details>
+
+
+<details>
+<summary><h1>Github Stats</h1></summary>
+</details>
+
+<h1 align="center">Contact Me<br></h1>
 
 <h1>Credits</h1>
 
