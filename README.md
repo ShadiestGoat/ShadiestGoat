@@ -230,6 +230,7 @@
 
 
 <p align="center">
+  
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -239,8 +240,9 @@
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats.vercel.app/api?username=shadiestgoat&show_icons=true&hide_border=true&line_height=30&title_color=3B3A8A&text_color=3B3A8A&bg_color=F2F2F2&icon_color=3B3A8A&show_owner=true"
   />
-  <img width="50%" alt="" src="https://github-readme-stats.vercel.app/api?username=shadiestgoat&show_icons=true&hide_border=true&line_height=30&title_color=ededed&text_color=ededed&bg_color=0d1117&icon_color=ededed&show_owner=true" />
+  <img width="50%" alt="" src="" />
 </picture>
+  
 </p>
 
 <h1 align="center">Contact Me</h1>
