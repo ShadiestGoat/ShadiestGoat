@@ -229,6 +229,7 @@
 <h1 align="center">Github Stats</h1>
 
 
+<p align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -240,6 +241,7 @@
   />
   <img width="30%" alt="" src="" />
 </picture>
+</p>
 
 <h1 align="center">Contact Me</h1>
 
