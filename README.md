@@ -7,15 +7,12 @@
 <h2 align="center">About me</h2>
 
 <p align="center">
-Heya! I'm Shady (he/him), a fullstack developer. My main focus is on backend development, though I do enjoy a good front end project. I started out coding right when the first lockdown happened (early 2020). I prefer strongly typed languages like go
+Heya! I'm Shady (he/him), a fullstack developer.<br>I prefer backend work, since it has better support for strongly typed languages like go, but I also enjoy frontend work! I started out coding right when the first lockdown happened (early 2020).
 </p>
 
-<details>
-<summary><h1>Frontend Languages & Frameworks</h1></summary>
-</details>
 
-<details>
-<summary><h1>Backend Languages & Frameworks</h1></summary>
+<h1 align="center">Backend Stacks</h1>
+<br>
 
 <table>
 <tr>
@@ -53,6 +50,7 @@ Python
 <td>
 <p align="center">
 <picture>
+  <img width="441" height="1">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/js.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/js.svg">
   <img width="30%" alt="" src="">
@@ -62,6 +60,7 @@ Python
 <td>
 <p align="center">
 <picture>
+  <img width="441" height="1">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/ts.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/ts.svg">
   <img width="30%" alt="" src="">
@@ -80,8 +79,10 @@ TypeScript (TS)
 
 </table>
 
-</details>
 
+<details>
+<summary><h1>Frontend Languages & Frameworks</h1></summary>
+</details>
 
 <details>
 <summary><h1>Github Stats</h1></summary>
