@@ -239,12 +239,13 @@
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats.vercel.app/api?username=shadiestgoat&show_icons=true&hide_border=true&line_height=30&title_color=ededed&text_color=ededed&bg_color=F2F2F2&icon_color=3B3A8A&show_owner=true"
   />
-  <img width="30%" alt="" src="" />
+  <img width="50%" alt="" src="" />
 </picture>
 </p>
 
 <h1 align="center">Contact Me</h1>
 
+You can email me, shady@shadygoat.eu, or DM me on discord: Shady Goat#2893. If one of these is invalid, check [my website](https://shadygoat.eu) to see if something updated.
 
 
 <h1 align="center">Credits</h1>
