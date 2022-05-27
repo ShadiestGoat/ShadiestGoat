@@ -40,7 +40,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/go.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -56,7 +56,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/python.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -78,7 +78,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/js.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -94,7 +94,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/ts.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -123,7 +123,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/svelte.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -139,7 +139,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/react.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -161,7 +161,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/html.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -177,7 +177,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/js.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -199,7 +199,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/sass.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -215,7 +215,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/css.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -245,7 +245,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/mysql.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -261,7 +261,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/postgresql.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -283,7 +283,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/sqlite.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -299,7 +299,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/mongodb.svg"
           />
-          <img width="30%" alt="" src="" />
+          <img width="25%" alt="" src="" />
         </picture>
       </p>
     </td>
