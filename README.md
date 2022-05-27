@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/pfp.svg">
+</p>
+
 <h1 align="center">Shady Goat</h1>
 
 <h2 align="center">About me</h2>
@@ -44,6 +48,36 @@ Go/Golang
 Python
 </td>
 </tr>
+
+<tr>
+<td>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/js.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/js.svg">
+  <img width="30%" alt="" src="">
+</picture>
+</p>
+</td>
+<td>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/ts.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/ts.svg">
+  <img width="30%" alt="" src="">
+</picture>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+JavaScript (JS)
+</td>
+<td align="center">
+TypeScript (TS)
+</td>
+</tr>
+
 </table>
 
 </details>
