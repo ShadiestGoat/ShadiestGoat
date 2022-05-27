@@ -34,15 +34,11 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/go.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/go.svg"
           />
           <source
             media="(prefers-color-scheme: light)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/go.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/go.svg"
           />
           <img width="30%" alt="" src="" />
         </picture>
@@ -54,15 +50,11 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/python.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/python.svg"
           />
           <source
             media="(prefers-color-scheme: light)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/python.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/python.svg"
           />
           <img width="30%" alt="" src="" />
         </picture>
@@ -80,15 +72,11 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/js.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/js.svg"
           />
           <source
             media="(prefers-color-scheme: light)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/js.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/js.svg"
           />
           <img width="30%" alt="" src="" />
         </picture>
@@ -100,15 +88,11 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/ts.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/ts.svg"
           />
           <source
             media="(prefers-color-scheme: light)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/ts.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/ts.svg"
           />
           <img width="30%" alt="" src="" />
         </picture>
@@ -133,15 +117,11 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/svelte.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/svelte.svg"
           />
           <source
             media="(prefers-color-scheme: light)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/svelte.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/svelte.svg"
           />
           <img width="30%" alt="" src="" />
         </picture>
@@ -153,15 +133,11 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/react.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/react.svg"
           />
           <source
             media="(prefers-color-scheme: light)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/react.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/react.svg"
           />
           <img width="30%" alt="" src="" />
         </picture>
@@ -179,15 +155,11 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/html.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/html.svg"
           />
           <source
             media="(prefers-color-scheme: light)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/html.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/html.svg"
           />
           <img width="30%" alt="" src="" />
         </picture>
@@ -199,15 +171,11 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/js.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/js.svg"
           />
           <source
             media="(prefers-color-scheme: light)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/js.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/js.svg"
           />
           <img width="30%" alt="" src="" />
         </picture>
@@ -225,15 +193,11 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/sass.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/sass.svg"
           />
           <source
             media="(prefers-color-scheme: light)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/sass.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/sass.svg"
           />
           <img width="30%" alt="" src="" />
         </picture>
@@ -245,15 +209,11 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/css.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/css.svg"
           />
           <source
             media="(prefers-color-scheme: light)"
-            srcset="
-              https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/css.svg
-            "
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/css.svg"
           />
           <img width="30%" alt="" src="" />
         </picture>
@@ -266,12 +226,10 @@
   </tr>
 </table>
 
-<details>
-  <summary><h1>Github Stats</h1></summary>
-</details>
+<h1 align="center">Github Stats</h1>
 
-<h1 align="center">Contact Me<br /></h1>
+<h1 align="center">Contact Me</h1>
 
-<h1>Credits</h1>
+<h1 align="center">Credits</h1>
 
 Icons for this README were taken from the awesome project [simple-icons](https://simpleicons.org)! They were modefied to some extent by me.
