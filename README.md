@@ -49,8 +49,8 @@ Python
 <tr>
 <td>
 <p align="center">
+<img width="441" height="1">
 <picture>
-  <img width="441" height="1">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/js.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/js.svg">
   <img width="30%" alt="" src="">
@@ -59,8 +59,8 @@ Python
 </td>
 <td>
 <p align="center">
+<img width="441" height="1">
 <picture>
-  <img width="441" height="1">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/ts.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/ts.svg">
   <img width="30%" alt="" src="">
