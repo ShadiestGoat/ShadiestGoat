@@ -56,7 +56,7 @@
             media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/python.svg"
           />
-          <img width="50%" alt="" src="" />
+          <img width="30%" alt="" src="" />
         </picture>
       </p>
     </td>
@@ -225,6 +225,92 @@
     <td align="center">CSS</td>
   </tr>
 </table>
+
+
+<br />
+<h1 align="center">Databases</h1>
+<br />
+
+<table>
+  <tr>
+    <td>
+      <img width="441" height="1" />
+      <p align="center">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/mysql.svg"
+          />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/mysql.svg"
+          />
+          <img width="30%" alt="" src="" />
+        </picture>
+      </p>
+    </td>
+    <td>
+      <img width="441" height="1" />
+      <p align="center">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/postgresql.svg"
+          />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/postgresql.svg"
+          />
+          <img width="30%" alt="" src="" />
+        </picture>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">MySQL</td>
+    <td align="center">PostgreSQL</td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img width="441" height="1" />
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/sqlite.svg"
+          />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/sqlite.svg"
+          />
+          <img width="30%" alt="" src="" />
+        </picture>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img width="441" height="1" />
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/dark/mongodb.svg"
+          />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/ShadiestGoat/ShadiestGoat/main/light/mongodb.svg"
+          />
+          <img width="30%" alt="" src="" />
+        </picture>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">SQLite</td>
+    <td align="center">MongoDB</td>
+  </tr>
+</table>
+
+
 
 <h1 align="center">Github Stats</h1>
 
