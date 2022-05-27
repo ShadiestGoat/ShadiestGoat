@@ -230,7 +230,6 @@
 
 
 <p align="center">
- <img width="50%" alt="" src="https://github-readme-stats.vercel.app/api?username=shadiestgoat&show_icons=true&hide_border=true&line_height=30&title_color=ededed&text_color=ededed&bg_color=0d1117&icon_color=ededed&show_owner=true" />
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
