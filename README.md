@@ -1,4 +1,4 @@
-<h1 align="center">Shady Goat</h1>
+<h1 align="center">Dan Dryaev</h1>
 
 <br />
 
