@@ -1,5 +1,5 @@
 <h1 align="center">Lucy Dryaeva</h1>
-<h4 align="center">(dead name - dan dryaev)</h4>
+<h4 align="center">(dead name - dan/danila dryaev)</h4>
 
 <br />
 
@@ -17,10 +17,10 @@
 <br />
 
 <p align="center">
-  Heya! I'm Shady (he/him), a fullstack developer.<br />I prefer backend work,
-  since it has better support for strongly typed languages like go, but I also
-  enjoy frontend work! I started out coding right when the first lockdown
-  happened (early 2020).
+  Heya! I'm Lucy (she/they), a fullstack developer.<br />
+  I prefer backend work, but I also enjoy frontend work!<br />
+  My favorite type of language is strongly types & functional (like go).<br />
+  I started coding right when the first lockdown happened (early 2020) and have yet to stop
 </p>
 
 <br />
