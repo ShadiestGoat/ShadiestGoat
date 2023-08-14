@@ -1,5 +1,4 @@
 <h1 align="center">Lucy Dryaeva</h1>
-<h4 align="center">(dead name - dan/danila dryaev)</h4>
 
 <br />
 
