@@ -333,8 +333,7 @@
 
 <h1 align="center">Contact Me</h1>
 
-You can email me, shady@shadygoat.eu, or DM me on discord: Shady Goat#2893. If one of these is invalid, check [my website](https://shadygoat.eu) to see if something updated.
-
+You can email me, shady@shadygoat.eu, or DM me on discord: @shadygoat. If one of these is invalid, check [my website](https://shadygoat.eu) to see if something updated.
 
 <h1 align="center">Credits</h1>
 
